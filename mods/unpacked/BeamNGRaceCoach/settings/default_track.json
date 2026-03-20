@@ -1,0 +1,51 @@
+{
+  "trackName": "Sample Raceway",
+  "vehicle": {
+    "mu": 1.12,
+    "maxAccel": 4.8,
+    "maxBrake": 8.8,
+    "vmax": 81.0
+  },
+  "mpcc": {
+    "iterations": 28,
+    "alpha": 0.09,
+    "wContouring": 1.0,
+    "wLag": 0.7,
+    "wCurvature": 1.1,
+    "wPreferred": 1.5,
+    "lookaheadPts": 12
+  },
+  "points": [
+    {"x": 0, "y": 0, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 25, "y": 0, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 50, "y": 0, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 75, "y": 4, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 95, "y": 16, "z": 0, "widthLeft": 7, "widthRight": 7},
+    {"x": 107, "y": 33, "z": 0, "widthLeft": 7, "widthRight": 7},
+    {"x": 110, "y": 52, "z": 0, "widthLeft": 7, "widthRight": 7},
+    {"x": 101, "y": 69, "z": 0, "widthLeft": 7, "widthRight": 7},
+    {"x": 83, "y": 79, "z": 0, "widthLeft": 7, "widthRight": 7},
+    {"x": 62, "y": 82, "z": 0, "widthLeft": 7, "widthRight": 7},
+    {"x": 41, "y": 83, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 19, "y": 84, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": -3, "y": 88, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": -22, "y": 98, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": -32, "y": 114, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": -33, "y": 133, "z": 0, "widthLeft": 7, "widthRight": 7},
+    {"x": -24, "y": 151, "z": 0, "widthLeft": 7, "widthRight": 7},
+    {"x": -7, "y": 163, "z": 0, "widthLeft": 7, "widthRight": 7},
+    {"x": 14, "y": 167, "z": 0, "widthLeft": 7, "widthRight": 7},
+    {"x": 38, "y": 169, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 63, "y": 170, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 84, "y": 161, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 95, "y": 144, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 95, "y": 123, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 88, "y": 103, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 72, "y": 89, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 48, "y": 82, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 24, "y": 74, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": 6, "y": 60, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": -4, "y": 42, "z": 0, "widthLeft": 6, "widthRight": 6},
+    {"x": -6, "y": 21, "z": 0, "widthLeft": 6, "widthRight": 6}
+  ]
+}
