@@ -6,6 +6,23 @@
     "maxBrake": 8.8,
     "vmax": 81.0
   },
+  "auto": {
+    "resampleSpacing": 6.0,
+    "trackSearchRadius": 18.0,
+    "trackMinDrivability": 0.75,
+    "allowSampleFallback": false,
+    "routeHalfWidth": 2.4,
+    "trackMaxTrackUsage": 0.92,
+    "routeMaxTrackUsage": 0.35,
+    "routePreferredScale": 0.55,
+    "routeLookaheadPts": 8,
+    "graphLoopSearchRadius": 90.0,
+    "graphLoopMinLength": 450.0,
+    "graphLoopMaxIntersectionRatio": 0.45,
+    "graphLoopHardMaxIntersectionRatio": 0.75,
+    "graphLoopMaxCandidates": 24,
+    "graphLoopPreferredLength": 5000.0
+  },
   "mpcc": {
     "iterations": 28,
     "alpha": 0.09,
@@ -14,6 +31,12 @@
     "wCurvature": 1.1,
     "wPreferred": 1.5,
     "lookaheadPts": 12
+  },
+  "native": {
+    "enabled": true,
+    "exePath": "mods/unpacked/BeamNGRaceCoach/bin/beamng_racecoach_native.exe",
+    "requestPath": "settings/BeamNGRaceCoach/native_request.json",
+    "responsePath": "settings/BeamNGRaceCoach/native_response.json"
   },
   "points": [
     {"x": 0, "y": 0, "z": 0, "widthLeft": 6, "widthRight": 6},
